@@ -1,6 +1,8 @@
 streamlit==1.33.0
-tensorflow>=2.21.0rc1
-numpy
+tensorflow==2.16.1
 pandas
+numpy
 scikit-learn
-h5py
+matplotlib
+tensorboard
+keras
